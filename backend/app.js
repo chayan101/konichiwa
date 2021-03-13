@@ -28,7 +28,10 @@ const app = express();
 // }
 //
 // myConnection();
-mongoose.connect('mongodb://localhost/konichiwaDb');
+mongoose.connect('mongodb://localhost/konichiwaDb' ,{
+   useNewUrlParser: true,
+   useUnifiedTopology: true
+});
 mongoose.Promise = global.Promise;
 
 //middleware
