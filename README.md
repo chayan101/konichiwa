@@ -21,3 +21,5 @@ Contributors:<br/>
     
 Tech Stack:
     node.js | react.js | express | Mongodb | Firebase
+    
+Read: `Build.txt` for info on how to build the app
