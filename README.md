@@ -15,6 +15,7 @@ privacy. You can share as much or as little you like with others.
 Contributors:
   Backend:
     Chayan Gurele | Shobhit Singh
+  
   Frontend:
     Atul Prakash | Namit Goel
     
