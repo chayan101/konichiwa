@@ -12,7 +12,7 @@ const Login = () => {
     return (
         <div className='login' >
             <div className="login__logo">
-               
+               KoniChiwa
             </div>
 
             <Button onClick={signIn}>Sign In</Button>
