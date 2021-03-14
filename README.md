@@ -20,4 +20,4 @@ Contributors:<br/>
     Atul Prakash | Namit Goel
     
 Tech Stack:
-    node.js | React.js | express | mongodb
+    node.js | react.js | express | Mongodb | Firebase
