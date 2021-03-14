@@ -1,4 +1,5 @@
-#Konichiwa - A communications app.
+
+<H2>Konichiwa - A communications app.</H2>
 <HR>
 
 We made this web app for Web Developement Hackathon for Elan & nVision - 2021 @ IIT-Hyderabad
