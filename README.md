@@ -12,11 +12,10 @@ Make new or join existing chat rooms as per you interests and collaborate on ama
 privacy. You can share as much or as little you like with others.
 <HR>
 
-Contributors:
-  
+Contributors:<br/>
   Backend:
     Chayan Gurele | Shobhit Singh
-  
+  <br/>
   Frontend:
     Atul Prakash | Namit Goel
     
