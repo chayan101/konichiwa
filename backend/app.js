@@ -42,9 +42,6 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
 //routes
-app.get("/",(req,res) =>{
-  res.status(200).send('its working bitches');
-})
 
 app.use("/channel" , Channel);
 
