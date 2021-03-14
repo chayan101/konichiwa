@@ -16,18 +16,6 @@ const app = express();
 //connecting to db
 
 
-// async function myConnection() {
-//   const uri = 'mongodb+srv://admin:e5gU3YvVzyBQR3Z@cluster0.k6rzq.mongodb.net/konichiwaDb?retryWrites=true&w=majority';
-//
-//   await mongoose.connect('mongodb://localhost/my_database', {
-//     useNewUrlParser: true,
-//     useUnifiedTopology: true,
-//     useFindAndModify: false,
-//     useCreateIndex: true
-//   });
-// }
-//
-// myConnection();
 mongoose.connect('mongodb://localhost/konichiwaDb' ,{
    useNewUrlParser: true,
    useUnifiedTopology: true
